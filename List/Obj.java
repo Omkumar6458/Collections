@@ -27,10 +27,10 @@ public class Obj {
         break;
       }
 
-    //  l1.add(input);  // here is problem , every thing convert into string 
+      //  l1.add(input);  // here is problem , every thing convert into string 
 
 
-    try{  // TRY CATHCH FOR NOT CAUSE ANY ERROR 
+     try{  // TRY CATHCH FOR NOT CAUSE ANY ERROR 
 
        if(input.contains("."))  // FOR SINHLE SINGLE INPUT IT STORE 
        {
